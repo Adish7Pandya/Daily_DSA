@@ -15,4 +15,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/1854-maximum-population-year) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
