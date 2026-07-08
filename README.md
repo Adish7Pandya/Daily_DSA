@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0053-maximum-subarray) |
 | [1854-maximum-population-year](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/1854-maximum-population-year) |
 ## Counting
 |  |
@@ -23,4 +24,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0125-valid-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
