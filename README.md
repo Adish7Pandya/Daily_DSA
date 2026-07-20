@@ -23,6 +23,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
 |  |
@@ -32,4 +33,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
