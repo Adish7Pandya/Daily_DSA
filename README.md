@@ -26,6 +26,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,8 +43,10 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
