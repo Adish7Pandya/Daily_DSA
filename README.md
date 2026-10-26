@@ -23,6 +23,7 @@ A collection of LeetCode questions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0125-valid-palindrome) |
 ## Divide and Conquer
@@ -37,4 +38,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
