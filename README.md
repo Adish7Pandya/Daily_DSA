@@ -49,4 +49,16 @@ A collection of LeetCode questions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0424-longest-repeating-character-replacement) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0231-power-of-two) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
