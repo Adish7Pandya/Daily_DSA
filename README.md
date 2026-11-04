@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0053-maximum-subarray) |
+| [0704-binary-search](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0704-binary-search) |
 | [1854-maximum-population-year](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/1854-maximum-population-year) |
 ## Counting
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions
 | [0231-power-of-two](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
