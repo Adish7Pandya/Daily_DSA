@@ -7,6 +7,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0118-pascals-triangle) |
 | [0704-binary-search](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0704-binary-search) |
 | [1854-maximum-population-year](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/1854-maximum-population-year) |
 ## Counting
@@ -36,6 +37,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adish7Pandya/Leetcode-prac-/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/Adish7Pandya/Daily_DSA/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
